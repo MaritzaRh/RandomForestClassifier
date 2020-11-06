@@ -1,2 +1,2 @@
 # RandomForestClassifier
-Implementation of Random Forest Classifier for the CIC2017 data set.
+Implementation of two Random Forest Classifiers for the CICDos2017 data set and CICDos2019 data set.
