@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Implementation of RF algorithm using CIC2017 data set
+Implementation of RF algorithm using CICDos2017 data set
 Created on October 16 2020
 By Maritza Rosales H.
 All rights reserved
